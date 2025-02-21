@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+multiprocessing
+openpyxl
+tables
+cachetools==5.3.0
